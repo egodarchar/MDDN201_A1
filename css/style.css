@@ -15,13 +15,6 @@ section{
 	margin-right: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
-}
-section1{
-	max-width: 1000px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
 	background-image: url(bg.jpeg);
 	background-size: cover;
 }
