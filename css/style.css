@@ -81,3 +81,17 @@ nav a:hover{
 .padded{
 	padding: 20px; /* I add this to cells to add a little padding*/
 }
+
+footer {
+    border-top: 1px solid gray;
+    text-align: center;
+    font-size: .8em;
+    line-height: 2em;
+    margin-top: 2em;
+    background: gray;
+}
+
+.footer {
+    clear: both;    
+}
+
