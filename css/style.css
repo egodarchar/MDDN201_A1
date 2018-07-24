@@ -7,6 +7,8 @@
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
 	font-family: sans-serif;
+	background-image: url(bg.jpeg);
+	background-size: cover;
 }
 
 section{
@@ -15,8 +17,7 @@ section{
 	margin-right: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	background-image: url(bg.jpeg);
-	background-size: cover;
+	
 }
 header{
 	background-color: #4c97c3;
