@@ -24,7 +24,7 @@ header{
 	color: white; /* more readable on an orange background */
 	padding-top: 50px;
 	padding-bottom: 50px;
-	height: 500px;
+	
 }
 
 nav{
@@ -53,7 +53,7 @@ nav a:hover{
 	width: 100%;
 	overflow: hidden;
 	background-color: #dfdee0;
-	padding-bottom: 50px;
+	
 }
 
 .g-row img{
