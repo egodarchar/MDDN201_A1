@@ -6,7 +6,7 @@
 
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
-	font-family: sans-serif;
+	font-family: 'Libre Baskerville', serif;
 	background-image: url(bg.jpeg);
 	background-size: cover;
 }
