@@ -85,6 +85,7 @@ nav a:hover{
 }
 
 footer {
+    width: 100%;
     border-top: 1px solid gray;
     text-align: center;
     font-size: .8em;
